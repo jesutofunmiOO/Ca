@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.url-shortener {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.url-shortener input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+}
+
+.url-shortener button {
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 10px;
+  color:blueviolet
+}
+
+.url-shortener div {
+  margin-top: 20px;
+}
