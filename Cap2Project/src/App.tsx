@@ -1,6 +1,7 @@
 import React from "react";
 import Urlshortener from "./component/Urlshortener";
 import "./App.css";
+//import firebase from "./firebase"
 
 const App: React.FC = () => {
   return (
